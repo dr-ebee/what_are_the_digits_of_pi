@@ -1,6 +1,6 @@
 # What are the digits of $\pi$?
 
-## Tasks
+## Tasks (34 points total)
 
 1. [ ] TODO 1: In `drawing.py`, modify the `draw_point` function so that it moves the turtle to the appropriate place before drawing the dot. **(3 points)** Test your code by running the file `drawing.py`. You should see 3 black dots and some pink text that says, "Hello, World!"
 2. [ ] TODO 2: In `drawing.py`, modify the `write` function to change the color, font, or size of the text on the screen. **(3 points)** Test your code by running the file `drawing.py`.
