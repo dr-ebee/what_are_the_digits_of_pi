@@ -16,4 +16,4 @@
 
 * [ ] Modify the code in this project so that we recalculate our estimate of $pi$ every 100 iterations. Run a total of at least 2000 iterations, which will print out at least 20 consecutive estimates of $pi$. Is your estimate getting closer to 3.14159? **(5 points)**
 * [ ] Instead of printing out the *estimate* every 100 iterations, print out the *difference* between the correct value of $pi$ (you can use `math.pi` for this) and your estimate. Is the error getting smaller as you sample more points? **(2 points)**
-* [ ] Look up `matplotlib` and try to make a graph where the x-axis is the number of iterations and the y-axis is the error. **(5 points)**
+* [ ] Look up `matplotlib` and try to make a graph where the x-axis is the number of iterations and the y-axis is the error. **(5 points)** I'm not sure how `matplotlib` and `turtle` interact, so feel free to disable the `turtle` drawing. One extra point if you use a variable and/or user `input` to determine whether the program should draw the points using turtle.
