@@ -1,4 +1,4 @@
-# What are the digits of $\pi$?
+# Project #2: What are the digits of $\pi$?
 
 ## Tasks (34 points total)
 
