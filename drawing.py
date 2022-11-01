@@ -13,6 +13,7 @@ def draw_point(x, y):
 
     # Go to the position
     # TODO 1 ------> YOUR CODE HERE!!!
+    turtle.goto(x,y)
 
     # Stamp a dot at the turtle's current location
     turtle.dot()
